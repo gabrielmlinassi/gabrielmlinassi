@@ -5,7 +5,7 @@
 
 - 👨‍💻 Porfolio [Next.js] [Pokedex App](https://github.com/GabrielmLinassi/pokedex)
 
-- 👨‍💻 Porfolio [Next.js] [e-commerce](https://demo-react-stripe-js.gabrielmlinassi.vercel.app)
+- 👨‍💻 Porfolio [Next.js] [E-commerce](https://demo-react-stripe-js.gabrielmlinassi.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
