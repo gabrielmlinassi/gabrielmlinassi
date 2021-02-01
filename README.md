@@ -2,7 +2,7 @@
 <h3 align="center">Front-End developer from Brazil</h3>
 
 ## Apps I'm building:
-- 💻 [Authenticated TODO App](https://github.com/GabrielmLinassi/authenticate-todo-app) [Next.js]
+- 💻 [Authenticated TODO App](https://github.com/GabrielmLinassi/authenticate-todo-app) `Next.js, TailwindCSS, Auth0`
 - 💻 [Pokedex App](https://github.com/GabrielmLinassi/pokedex) [Next.js]
 - 💻 [E-commerce](https://github.com/GabrielmLinassi/next-graphcms-stripe-checkout) Stack: `Next.js, TailwindCSS, Stripe, GraphCMS`
 
