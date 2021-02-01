@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Front-End developer from Brazil</h3>
 
-- 👨‍💻 Porfolio [Next.js] [Authenticated TODO App](https://github.com/GabrielmLinassi/authenticate-todo-app)
-
-- 👨‍💻 Porfolio [Next.js] [Pokedex App](https://github.com/GabrielmLinassi/pokedex)
-
-- 👨‍💻 Porfolio [Next.js] [E-commerce](https://demo-react-stripe-js.gabrielmlinassi.vercel.app)
+## Apps I'm building:
+- 💻 [Authenticated TODO App](https://github.com/GabrielmLinassi/authenticate-todo-app) [Next.js]
+- 💻 [Pokedex App](https://github.com/GabrielmLinassi/pokedex) [Next.js]
+- 💻 [E-commerce](https://github.com/GabrielmLinassi/next-graphcms-stripe-checkout) [Next.js]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
