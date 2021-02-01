@@ -4,7 +4,7 @@
 ## Apps I'm building:
 - 💻 [Authenticated TODO App](https://github.com/GabrielmLinassi/authenticate-todo-app) [Next.js]
 - 💻 [Pokedex App](https://github.com/GabrielmLinassi/pokedex) [Next.js]
-- 💻 [E-commerce](https://github.com/GabrielmLinassi/next-graphcms-stripe-checkout) [Next.js]
+- 💻 [E-commerce](https://github.com/GabrielmLinassi/next-graphcms-stripe-checkout) Stack: `Next.js, TailwindCSS, Stripe, GraphCMS`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
