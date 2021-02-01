@@ -3,8 +3,8 @@
 
 ## Apps I'm building:
 - 💻 [Authenticated TODO App](https://github.com/GabrielmLinassi/authenticate-todo-app) `Next.js, TailwindCSS, Auth0, React Context`
-- 💻 [Pokedex App](https://github.com/GabrielmLinassi/pokedex) `Next.js`
-- 💻 [E-commerce](https://github.com/GabrielmLinassi/next-graphcms-stripe-checkout) Stack: `Next.js, TailwindCSS, Stripe, GraphCMS`
+- 💻 [Pokedex App](https://github.com/GabrielmLinassi/pokedex) `Next.js (SSR + SSG)`
+- 💻 [E-commerce](https://github.com/GabrielmLinassi/next-graphcms-stripe-checkout) Stack: `Next.js (SSG), TailwindCSS, Stripe, GraphCMS`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
