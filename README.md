@@ -8,13 +8,13 @@ Front-End Web Developer (React)
 <br/>
 
 More about me:
-- :rocket: &nbsp;&nbsp;I’m currently working as a Front-End Web Developer at [UpWork](https://www.upwork.com/freelancers/~01495164d6c7d49539)
+- :rocket: &nbsp;&nbsp; Front-End Web Developer
 - :school: &nbsp;&nbsp;Computer Science
 
 <br/>
 
 Portfolio & ongoing projects:
-- [E-Commerce](https://github.com/GabrielmLinassi/next-graphcms-stripe-checkout) built in Next.js and integrated with Stripe, Algolia, CommerceJS and Cloudinary
+- [E-Commerce](...) built in Next.js and integrated with Stripe, Algolia, CommerceJS and Cloudinary
 
 <br/>
 
