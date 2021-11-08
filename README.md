@@ -8,7 +8,6 @@ Front-End Web Developer (React)
 <br/>
 
 More about me:
-- :rocket: &nbsp;&nbsp; Front-End Web Developer
 - :school: &nbsp;&nbsp;Computer Science
 
 <br/>
