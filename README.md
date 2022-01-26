@@ -1,6 +1,6 @@
 ## [For Hire][Remote] 
 
-I have more than 3+ years of experience in front-end web development.<br/>
+I have more than 4+ years of experience in front-end web development.<br/>
 🌟 Frontend: React/Redux/Next.js/Gatsby/GraphQL/Socket.io/Three.js/Tailwind CSS/Material UI/TypeScript/Three.js<br/>
 🌟 Backend: Node.js/Express.js/RESTful API - Database: MongoDB/ Fire store/ MySQL/ PostgreSQL<br/>
 🌟 Project Management: GitHub / GitLab/ JIRA/ Trello<br/>
