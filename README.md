@@ -14,7 +14,4 @@ Thank you.<br/>
 
 <br/>
 
-Portfolio & ongoing projects:
-- [E-Commerce](...) built in Next.js and integrated with Stripe, Algolia, CommerceJS and Cloudinary
-
 
