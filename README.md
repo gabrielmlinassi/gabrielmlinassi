@@ -9,7 +9,7 @@ I can work ~30 hours per week in US time zone and start immediately.<br/>
 If you have any projects for me, please DM me.<br/>
 Thank you.<br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-linassi-b7a04b156/)](https://www.linkedin.com/in/gabriel-linassi-b7a04b156/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-linassi/)](https://www.linkedin.com/in/gabriel-linassi-b7a04b156/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielm.linassi@gmail.com)](mailto:gabrielm.linassi@gmail.com)
 
 <br/>
