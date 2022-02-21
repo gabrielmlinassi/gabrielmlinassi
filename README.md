@@ -1,13 +1,14 @@
-## [For Hire][Remote] 
+More than 4 years working with Development, especially with Javascript.
 
-I have more than 4+ years of experience in front-end web development.<br/>
-🌟 Frontend: React/Redux/Next.js/GraphQL/Three.js/Tailwind CSS/Material UI/TypeScript/Three.js<br/>
-🌟 Backend: Node.js/Express.js/RESTful API - Database: MongoDB/ Fire store/ MySQL/ PostgreSQL<br/>
-🌟 Project Management: GitHub / GitLab/ JIRA/ Trello<br/>
+🌟 Frontend: React/Next.js/TS/Redux/GraphQL/REST/Three.js/Tailwind/MUI<br/>
+🌟 Backend: Node/Express/REST/GraphQL/MongoDB/Postgres
+🌟 Project Management: GitHub/JIRA
 
-I can work ~30 hours per week in US time zone and start immediately.<br/>
-If you have any projects for me, please DM me.<br/>
-Thank you.<br/>
+Github: github.com/gabrielmlinassi
+
+I can work over 30h/week US time zone.
+If you have any projects for me, please DM me.
+Thank You!<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-linassi/)](https://www.linkedin.com/in/gabriel-linassi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielm.linassi@gmail.com)](mailto:gabrielm.linassi@gmail.com)
