@@ -1,4 +1,4 @@
-More than 4 years working with Development, especially with Javascript.
+More than 3 years working with Web Development, especially with Javascript.
 
 🌟 Frontend: React/Next.js/TS/Redux/GraphQL/REST/Three.js/Tailwind/MUI<br/>
 🌟 Backend: Node/Express/REST/GraphQL/MongoDB/Postgres
