@@ -1,6 +1,5 @@
-Seasoned Software Engineer with 5 years of experience, being 3 working as a Web Developer, especially with Front-End.
+#### Seasoned Software Engineer with 5 years of experience, being 3 working as a Web Developer, especially with Front-End.<br/><br/>
 
-## Some toolings I'm well experienced with:
 🌟 <b>Frontend:</b> React / Next.js / TypeScript / Redux / GraphQL / REST / SWR / MUI / Bootstrap / Framer Motion / Firebase <br/>
 🌟 <b>Backend:</b> Node / Express / REST / GraphQL / MongoDB / Postgres / Prisma / SQL <br/>
 🌟 <b>Project Management:</b> Git / JIRA / SCRUM <br/>
