@@ -6,7 +6,7 @@
 
 ...<br/><br/>
 💻 <b>Currently learning:</b> Python for Algorithms & Data Structure and React Native for mobile development<br/>
-💖 <b>Tech stack I like most:</b> Next.js + TypeScript + TailwindCSS + RadixUI + GraphQL + SWR + Zustand<br/><br/>
+💖 <b>Tech stack I like most:</b> `Next.js` + `TypeScript` + `TailwindCSS` + `RadixUI` + `GraphQL` + `SWR` + `Zustand`<br/><br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-linassi/)](https://www.linkedin.com/in/gabriel-linassi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielm.linassi@gmail.com)](mailto:gabrielm.linassi@gmail.com)
