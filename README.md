@@ -1,12 +1,13 @@
-#### Seasoned Software Engineer with 5 years of experience, being 3 working as a Web Developer, especially with Front-End.<br/><br/>
+ Hello, I'm a freelancer developer with 5 years of experience, being 3 working as a Web Developer<br/>
 
-🌟 <b>Frontend:</b> React / Next.js / TypeScript / Redux / GraphQL / REST / SWR / MUI / Bootstrap / Framer Motion / Firebase <br/>
-🌟 <b>Backend:</b> Node / Express / REST / GraphQL / MongoDB / Postgres / Prisma / SQL <br/>
-🌟 <b>Project Management:</b> Git / JIRA / SCRUM <br/>
+✅ <b>Prefered frontend stack:</b> NextJS + TypeScript + Zustand + GraphQL/REST + SWR + Tailwind + Framer Motion<br/>
+✅ <b>Prefered backend stack:</b> Node with NestJS + REST/GraphQL + Mongo/Postgres + Prisma ORM<br/>
+✅ <b>Prefered project management stack:</b> Git / Jira / Scrum<br/>
 
-...<br/><br/>
-💻 <b>Currently learning:</b> Python for Algorithms & Data Structure and React Native for mobile development<br/>
-💖 <b>Tech stack I like most:</b> `Next.js` + `TypeScript` + `TailwindCSS` + `RadixUI` + `GraphQL` + `SWR` + `Zustand`<br/><br/>
+Some other things about me:<br/>
+💻 <b>Open Source enthusiast</b> - although I haven't contribute to open source just yet, I'm planning to start soon<br/>
+💖 <b>Love to learn and to share</b> - I'm an active member of multiple communities like Reddit React, Reactiflux and Medium<br/><br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-linassi/)](https://www.linkedin.com/in/gabriel-linassi/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielm.linassi@gmail.com)](mailto:gabrielm.linassi@gmail.com)
+[![Reddit Badge](https://img.shields.io/reddit/user-karma/link/Cautious_Variation_5?label=gabrielm.linassi&style=social)](https://www.reddit.com/user/Cautious_Variation_5)
+
