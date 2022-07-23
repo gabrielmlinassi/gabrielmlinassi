@@ -1,5 +1,3 @@
- Hello, I'm a freelancer developer with 5 years of experience, being 3 working as a Web Developer<br/>
-
 ✅ <b>Prefered frontend stack:</b> NextJS + TypeScript + Zustand + GraphQL/REST + SWR + Tailwind + Framer Motion<br/>
 ✅ <b>Prefered backend stack:</b> Node with NestJS + REST/GraphQL + Mongo/Postgres + Prisma ORM<br/>
 ✅ <b>Prefered project management stack:</b> Git / Jira / Scrum<br/>
