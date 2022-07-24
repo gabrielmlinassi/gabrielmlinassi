@@ -2,7 +2,7 @@
 ✅ <b>Prefered backend stack:</b> Node with NestJS + REST/GraphQL + Mongo/Postgres + Prisma ORM<br/>
 ✅ <b>Prefered project management stack:</b> Git / Jira / Scrum<br/>
 
-Some other things about me:<br/>
+Fun facts:<br/>
 💻 <b>Open Source enthusiast</b> - although I haven't made any major OSS contribution just yet, I'm planning to start soon<br/>
 💖 <b>Love to learn and to share</b> - I'm an active member of multiple communities like Reddit React, Reactiflux and Medium<br/><br/>
 
